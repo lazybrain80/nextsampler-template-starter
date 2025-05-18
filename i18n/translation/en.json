@@ -1,0 +1,274 @@
+{
+  "SignInPage": {
+    "leavePage": "Back",
+    "welcome_back": "Welcome back",
+    "signin_title": "Simply sign in with your existing account.",
+    "google_signin": "Continue with Google",
+    "github_signin": "Continue with GitHub",
+    "email_signin": "Continue with Email",
+    "other_signin": "Continue with Other"
+  },
+  "LandingPage": {
+    "title": "Real-World Next.js Starter Templates for Developers",
+    "description": "NextSampler offers production-ready Next.js templates that help you start your projects faster. Browse real-world examples, clean code, and integrated tools like Supabase and Tailwind CSS."
+  },
+  "FeaturesPage": {
+    "title": "Features – What's Included in NextSampler Templates",
+    "description": "Discover the key features of every NextSampler template, including authentication, database integration, file uploads, responsive design, and production-ready setup using Supabase, Tailwind CSS, and more.",
+    "key_feature_title_0": "Next.js Based",
+    "key_feature_description_0": "Built with the latest Next.js 15 App Router structure to efficiently manage routing and data flow.",
+    "key_feature_title_1": "TailwindCSS Integration",
+    "key_feature_description_1": "Rapid styling with utility-first classes, supporting custom animations and scalable design.",
+    "key_feature_title_2": "TypeScript Support",
+    "key_feature_description_2": "Static typing ensures safer code and a more collaborative, maintainable development environment.",
+    "key_feature_title_3": "UI Component System",
+    "key_feature_description_3": "Accessible, responsive UIs built with Radix UI, Lucide, and Tailwind plugins.",
+    "key_feature_title_4": "Authentication & Data Management",
+    "key_feature_description_4": "Authentication, data storage, and SSR support with Supabase — no backend needed.",
+    "key_feature_title_5": "i18n & Themes",
+    "key_feature_description_5": "Easily implement i18n and dark mode with next-intl and next-themes.",
+    "key_feature_title_6": "Animation & Feedback",
+    "key_feature_description_6": "Smooth UI interaction and notifications with motion, sonner, and tailwind-animate."
+  },
+  "ShowCasePage": {
+    "title": "Showcase – Real Projects Built with NextSampler",
+    "description": "Explore real-world projects built using NextSampler templates. See how developers use our Next.js boilerplates to build web apps faster with Supabase, Tailwind CSS, authentication, and more.",
+    "link_demo": "Demo",
+    "link_docs": "Docs",
+    "showcase_0_title": "Admin Dashboard",
+    "showcase_0_description": "A practical dashboard example with various statistics. Built on Next.js and TailwindCSS for scalability and maintainability.",
+    "showcase_1_title": "Component Collection",
+    "showcase_1_description": "A collection of frequently used UI components. Composed of various elements like buttons, input fields, modals, and tabs based on Radix UI.",
+    "showcase_2_title": "Note App",
+    "showcase_2_description": "A note-taking example with simple text editing and saving features.",
+    "showcase_3_title": "Profile Page",
+    "showcase_3_description": "A basic profile page where users can view their information."
+  },
+  "PricingPage": {
+    "title": "Pricing – Get Access to Premium Next.js Templates",
+    "description": "Choose a plan that fits your needs. Get instant access to high-quality Next.js templates with features like Supabase integration, authentication, file uploads, and responsive UI – all for a one-time payment."
+  },
+  "DocumentsPage": {
+    "title": "Documents"
+  },
+  "ProfilePage": {
+    "title": "Profile"
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "total_properties": "Total Properties",
+    "properties_sold": "Properties Sold",
+    "total_revenue": "Total Revenue",
+    "conversion_rate": "Conversion Rate",
+    "sales_performance": "Sales Performance",
+    "sales_performance_description": "Check your sales performance over the last 6 months.",
+    "property_types_description": "Check the sales status by property type.",
+    "property_types": "Property Types",
+    "property_listings": "Property Listings",
+    "property": "Property",
+    "location": "Location",
+    "price": "Price",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "TermsOfServicePage": {
+    "title": "Terms of service"
+  },
+  "PrivacyPolicyPage": {
+    "title": "Privacy policy"
+  },
+  "Navbar": {
+    "features": "Features",
+    "docs": "Docs",
+    "showcase": "Showcase",
+    "pricing": "Pricing",
+    "support": "Support",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "sign_out": "Sign Out"
+  },
+  "UserSideNav": {
+    "dashboard": "Dashboard",
+    "dashboard2": "Dashboard2",
+    "profile": "My Profile",
+    "sign_out": "Sign Out"
+  },
+  "Main": {
+    "introducing": "NextSampler",
+    "title": "Kickstart Your Next.js Project with Our Free Starter Template (<important>NextSampler</important>)",
+    "description": "Explore our open-source Next.js 15 App Router starter, crafted with TypeScript, Tailwind CSS, and Radix UI. Ready to deploy and easy to customize.",
+    "primary_button": "Get Started",
+    "secondary_button": "Star on GitHub"
+  },
+  "DemoDownload": {
+    "title_0": "Get the exact source code",
+    "title_1": "of this live demo site.",
+    "description": "NextSampler provides the full source code of this page and more — ready for commercial use.",
+    "download_button": "Buy the Code"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Experience the Latest Tech Stack",
+    "section_description": "NextSampler carefully selects only the best technologies for modern and practical web development.",
+    "feature1_title": "Next.js",
+    "feature1_description": "Built on Next.js 15 App Router, NextSampler delivers exceptional speed and flexibility. By separating server and client components, it achieves high scalability and maintainability.",
+    "feature2_title": "React",
+    "feature2_description": "Powered by React, NextSampler offers highly interactive and user-friendly UIs. Leveraging React 18 features, it achieves optimal performance and simplified code structure.",
+    "feature3_title": "Tailwind CSS",
+    "feature3_description": "With Tailwind CSS, we achieve fast and consistent styling. Our utility-first approach ensures responsive designs and enhances maintainability across the codebase.",
+    "feature4_title": "TypeScript",
+    "feature4_description": "By adopting TypeScript, we prevent code errors early and significantly boost developer productivity. Our codebase is designed for stability and collaborative efficiency.",
+    "feature5_title": "Supabase",
+    "feature5_description": "Through Supabase, we easily integrate open-source database and authentication services. Our backend environment supports scalability and real-time capabilities.",
+    "feature6_title": "Radix UI",
+    "feature6_description": "Radix UI is an accessible and flexible UI component library for React applications. It provides a variety of basic components that make it easy for developers to build user interfaces."
+  },
+  "FirstHero": {
+    "title": "Kickstart Your Next.js Project in Minutes",
+    "description": "NextSampler delivers production-ready Next.js 15 templates, crafted with TypeScript, TailwindCSS, and Radix UI. Build faster, deploy smarter, and focus on what truly matters — your ideas.",
+    "get_start": "Get Started!",
+    "reviewer_name": "Emily Johnson",
+    "reviewer_position": "(Creative Solutions Project Manager)",
+    "reviewer_opinion": "nextjs boilerplate is revolutionary - it has quickly streamlined our data processes!"
+  },
+  "SecondHero": {
+    "title": "Start Your Next.js Project Faster Than Ever",
+    "description": "NextSampler offers production-ready Next.js 15 templates that you can use without complex setup. Focus on your ideas — we’ll handle the groundwork.",
+    "get_start": "Get Started!",
+    "reviewer_name": "Michael Brown",
+    "reviewer_position": "(Director of Technical Solutions Operations)",
+    "reviewer_opinion": "The nextjs boilerplate has revolutionised our development process - smooth, secure, and simple!"
+  },
+  "ExampleShowcase": {
+    "page_title": "Example Templates",
+    "page_description": "NextSampler offers a variety of example templates, each designed for immediate use in real-world applications. Check out the examples below.",
+    "showcase1_title": "Admin Dashboard",
+    "showcase1_description": "A production-ready dashboard template with various analytics. Built with Next.js and TailwindCSS for scalability and maintainability.",
+    "showcase2_title": "Note App",
+    "showcase2_description": "A note-taking example with simple text editing and saving features.",
+    "showcase3_title": "Component Collection",
+    "showcase3_description": "A curated set of reusable UI components like buttons, inputs, modals, and tabs. Built on top of Radix UI for accessibility and customization."
+  },
+  "Process": {
+    "title": "The Complete Guide to Next.js Boilerplate",
+    "description": "This guide introduces you to all the features of Next.js boilerplate and walks you through how to install and use them step-by-step. Discover the benefits and unique selling points of each feature, easily install them, and put them to good use with common use cases.",
+    "step1_title": "Features",
+    "step1_description": "Learn all the features of the Next.js boilerplate, and see the benefits and unique selling points of each feature.",
+    "step2_title": "Installation guide",
+    "step2_description": "Make it easy with our step-by-step guide on how to install Boilerplate.",
+    "step3_title": "How to use",
+    "step3_description": "After installation, we'll show you how to use the Next.js boilerplate and explain common use cases."
+  },
+  "Pricing": {
+    "section_title": "Great the SaaS Template Starts With a Plan",
+    "section_description": "SaaS templates starting at the right price! Efficient and simple solutions that give you the opportunity to grow your business further."
+  },
+  "PricingPlan": {
+    "free_plan_name": "Free",
+    "free_plan_button": "Create account",
+    "premium_plan_name": "Premium",
+    "premium_plan_button": "Get started",
+    "enterprise_plan_name": "Enterprise",
+    "enterprise_plan_button": "Contact Sales",
+    "free_plan_description": "For individuals",
+    "premium_plan_description": "For small teams",
+    "enterprise_plan_description": "For industry leaders",
+    "feature_common_team_member": "{number} Team Members",
+    "feature_common_website": "{number} Websites",
+    "feature_common_storage": "{number} GB Storage",
+    "feature_common_transfer": "{number} TB Transfer",
+    "feature_indiviual_email_support": "Email Support",
+    "feature_indiviual_statics_report": "Statistics and Reports",
+    "feature_indiviual_online_support": "Online support",
+    "feature_indiviual_ai_assist": "AI Assistant",
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "next_renew_date": "Your subscription renews on {date}"
+  },
+  "PricingOnetimePayment": {
+    "title": "Pricing Information",
+    "description": "One-time payment for all NextSampler examples without additional cost.",
+    "payment_desc": "VAT included / only one-time payment",
+    "feature1": "All example source code included",
+    "feature2": "Lifetime access without additional cost",
+    "feature3": "Commercial use allowed",
+    "feature4": "Available for personal and team projects",
+    "buy_now": "Buy Now"
+  },
+  "FAQ": {
+    "section_title": "Frequently Asked Questions",
+    "section_description": "Find answers to common questions about Next.js Boilerplate and learn how to get started quickly.",
+    "question1": "What does Next.js Boilerplate do?",
+    "answer1": "Next.js Boilerplate provides basic Next.js setup, as well as routing, state management, API communication, styling, test setup, and more. This allows developers to get started quickly and easily add the features they need.",
+    "question2": "How do I install this project?",
+    "answer2": "Next.js Boilerplate is available by cloning it from GitHub. Simply follow the installation guide to install the necessary dependencies, set up environment variables, and start the development server with the npm run dev command.",
+    "question3": "What is the licence for Next.js Boilerplate?",
+    "answer3": "Next.js Boilerplate is under the MIT licence. This allows anyone to use, modify, and distribute it freely. However, you must retain the original copyright and licence notices.",
+    "question4": "How do I implement user authentication in Next.js Boilerplate?",
+    "answer4": "Next.js Boilerplate provides a basic structure for user authentication. It's set up to make it easy to integrate authentication methods like JSON Web Token (JWT) or OAuth, and you can see how to implement them in the related documentation.",
+    "question5": "How easy is it to customise Next.js Boilerplate?",
+    "answer5": "Next.js Boilerplate is designed with a modular structure, making it easy to customise to your needs. You're free to modify and add components, pages, API routes, and more, and the documentation provides a guide on how to customise it."
+  },
+  "CTA": {
+    "title": "Upgrade to the Full Version",
+    "description": "Looking for advanced features like authentication, Supabase integration, and more? Check out the full version:",
+    "button_text": "🚀 View Full Version"
+  },
+  "Footer": {
+    "features": "Features",
+    "showcase": "Showcase",
+    "pricing": "Pricing",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "inspired_by": "Inspired by <author></author>."
+  },
+  "NoteApp": {
+    "title": "Note App",
+    "add_note": "Add Note",
+    "new_note": "New Note",
+    "edit_note": "Edit Note",
+    "save_note_confirm": "Save",
+    "delete_note_confirm": "Delete",
+    "delete_note_message": "Are you sure you want to delete this note?",
+    "note_list": "Note List",
+    "note_title": "Note Title",
+    "note_content": "Note Content"
+  },
+  "CalendarApp": {
+    "page_title": "Calendar App",
+    "add_event": "Add Event",
+    "new_event": "New Event",
+    "edit_event": "Edit Event",
+    "delete_event": "Delete Event",
+    "save": "Save",
+    "event_name": "Event Name",
+    "event_desc": "Event Description",
+    "event_start": "Start Time",
+    "event_end": "End Time",
+    "event_color": "Event Color"
+  },
+  "InvoiceApp": {
+    "page_title": "Invoice App",
+    "add_invoice": "Add Invoice",
+    "new_invoice": "New Invoice",
+    "edit_invoice": "Edit Invoice",
+    "delete_invoice": "Delete Invoice",
+    "delete_selected": "Delete Selected",
+    "save": "Save",
+    "invoice_list": "Invoice List",
+    "invoice_name": "Invoice Name",
+    "invoice_desc": "Invoice Description",
+    "invoice_date": "Invoice Date",
+    "invoice_due_date": "Due Date",
+    "invoice_amount": "Invoice Amount",
+    "invoice_status": "Invoice Status",
+    "invoice_status_paid": "Paid",
+    "invoice_status_pending": "Pending",
+    "invoice_status_draft": "Draft"
+  },
+  "EcommerceApp": {
+    "page_title": "Ecommerce App",
+    "page_inventory_title": "Ecommerce - Inventory Management",
+    "page_detail_title": "Ecommerce - Product Detail Page"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "SignInPage": {
+    "leavePage": "뒤로가기",
+    "welcome_back": "다시 오신 것을 환영합니다.",
+    "signin_title": "기존에 사용하시는 계정으로 간단하게 로그인하세요.",
+    "google_signin": "Google 계정으로 로그인하기",
+    "github_signin": "GitHub 계정으로 로그인하기",
+    "email_signin": "이메일로 로그인하기",
+    "other_signin": "또는 다음으로 계속"
+  },
+  "LandingPage": {
+    "title": "실전형 Next.js 스타터 템플릿 마켓",
+    "description": "NextSampler는 실무에 바로 사용할 수 있는 Next.js 기반 예제 코드를 제공합니다. Supabase, Tailwind CSS 등과 통합된 깔끔한 코드로 빠르게 프로젝트를 시작해보세요."
+  },
+  "FeaturesPage": {
+    "title": "기능 소개 – NextSampler 템플릿에 포함된 핵심 기능",
+    "description": "NextSampler 템플릿에 포함된 핵심 기능을 확인해보세요. 인증, 데이터베이스 연동, 파일 업로드, 반응형 디자인, Supabase와 Tailwind CSS 기반의 실전 프로젝트 구성이 모두 포함되어 있습니다.",
+    "key_feature_title_0": "Next.js 기반",
+    "key_feature_description_0": "최신 Next.js 15 App Router 구조를 기반으로 페이지 라우팅과 데이터 흐름을 효율적으로 구성할 수 있습니다.",
+    "key_feature_title_1": "TailwindCSS 통합",
+    "key_feature_description_1": "클래스 기반 유틸리티를 활용해 빠르게 스타일링하며, 커스텀 애니메이션과 확장성 있는 디자인을 제공합니다.",
+    "key_feature_title_2": "TypeScript 지원",
+    "key_feature_description_2": "정적 타입 기반의 안전한 코드 작성을 지원하며, 유지보수와 협업에 최적화된 개발 환경을 제공합니다.",
+    "key_feature_title_3": "UI 컴포넌트 시스템",
+    "key_feature_description_3": "Radix UI와 Lucide, Tailwind 플러그인을 활용해 접근성 높은 반응형 UI를 구성할 수 있습니다.",
+    "key_feature_title_4": "인증 및 데이터 관리",
+    "key_feature_description_4": "Supabase로 인증, 데이터 저장, SSR까지 백엔드 작업 없이 구성할 수 있습니다.",
+    "key_feature_title_5": "다국어 및 테마 지원",
+    "key_feature_description_5": "next-intl과 next-themes를 통해 다국어 지원과 다크 모드를 손쉽게 구현할 수 있습니다."
+  },
+  "ShowCasePage": {
+    "title": "쇼케이스 – NextSampler로 제작된 실제 프로젝트",
+    "description": "NextSampler 템플릿을 사용해 만든 실전 프로젝트들을 살펴보세요. 다양한 개발자들이 Supabase, Tailwind CSS, 인증 기능이 포함된 Next.js 보일러플레이트를 어떻게 활용하고 있는지 확인할 수 있습니다.",
+    "link_demo": "예제 보러가기",
+    "link_docs": "문서 보러가기",
+    "showcase_0_title": "어드민 대시보드",
+    "showcase_0_description": "다양한 통계가 포함된 실무용 대시보드 예제입니다. Next.js와 TailwindCSS 기반으로 확장성과 유지보수성이 뛰어납니다.",
+    "showcase_1_title": "컴포넌트 컬렉션",
+    "showcase_1_description": "자주 사용하는 UI 컴포넌트를 모아둔 컬렉션입니다. 버튼, 입력창, 모달, 탭 등 다양한 요소를 Radix UI 기반으로 구성했습니다.",
+    "showcase_2_title": "노트 앱",
+    "showcase_2_description": "간단한 텍스트 편집 및 저장 기능이 포함된 노트 예제입니다.",
+    "showcase_3_title": "프로필 페이지",
+    "showcase_4_description": "사용자 정보를 보여주는 기본 프로필 페이지 예제입니다."
+  },
+  "DocumentsPage": {
+    "title": "Documents"
+  },
+  "PricingPage": {
+    "title": "가격 안내 – 프리미엄 Next.js 템플릿을 한 번에 구매하세요",
+    "description": "원하는 요금제를 선택하고 NextSampler 템플릿을 바로 다운로드하세요. Supabase 연동, 인증, 파일 업로드, 반응형 UI가 포함된 실전용 Next.js 예제 소스를 한 번의 결제로 이용할 수 있습니다."
+  },
+  "ProfilePage": {
+    "title": "Profile"
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "total_properties": "총 부동산",
+    "properties_sold": "팔린 부동산",
+    "total_revenue": "총 수익",
+    "conversion_rate": "전환율",
+    "sales_performance": "판매 성과",
+    "sales_performance_description": "최근 6개월 동안의 판매 성과를 확인하세요.",
+    "property_types": "부동산 유형",
+    "property_types_description": "부동산 유형별 판매 현황을 확인하세요.",
+    "property_listings": "부동산 목록",
+    "property": "부동산",
+    "location": "위치",
+    "price": "가격",
+    "status": "상태",
+    "actions": "작업"
+  },
+  "TermsOfServicePage": {
+    "title": "Terms of service"
+  },
+  "PrivacyPolicyPage": {
+    "title": "Privacy policy"
+  },
+  "Navbar": {
+    "features": "기능소개",
+    "docs": "문서",
+    "showcase": "예제 미리보기",
+    "pricing": "가격 안내",
+    "support": "기술지원",
+    "sign_in": "로그인",
+    "sign_up": "가입하기",
+    "sign_out": "로그아웃"
+  },
+  "UserSideNav": {
+    "dashboard": "대시보드",
+    "dashboard2": "대시보드2",
+    "profile": "내 프로필",
+    "sign_out": "로그아웃"
+  },
+  "Main": {
+    "introducing": "NextSampler",
+    "title": "무료 스타터 템플릿(<important>NextSampler</important>)으로 Next.js 프로젝트를 빠르게 시작하세요",
+    "description": "TypeScript, Tailwind CSS, Radix UI로 제작된 오픈소스 Next.js 15 App Router 스타터를 만나보세요. 바로 배포 가능하며, 손쉽게 커스터마이즈할 수 있습니다.",
+    "primary_button": "시작하기!",
+    "secondary_button": "Star on GitHub"
+  },
+  "DemoDownload": {
+    "title_0": "지금 보고 있는 데모 사이트",
+    "title_1": "그대로 소스 코드로 받아보세요.",
+    "description": "NextSampler는 이 페이지를 포함한 전체 예제를 제공하며, 상업적 사용도 가능합니다.",
+    "download_button": "소스 코드 구매하기"
+  },
+  "Features": {
+    "section_subtitle": "기능 및 특징",
+    "section_title": "최신 기술 스택을 경험하세요",
+    "section_description": "NextSampler는 현대적이고 실용적인 웹 개발을 위해 최고의 기술만을 선택했습니다.",
+    "feature1_title": "Next.js",
+    "feature1_description": "NextSampler는 Next.js 15 App Router를 기반으로 구축되어, 최상의 속도와 유연성을 제공합니다. 서버 컴포넌트와 클라이언트 컴포넌트를 분리하여 확장성과 유지보수성을 극대화했습니다.",
+    "feature2_title": "React",
+    "feature2_description": "NextSampler는 React를 기반으로 사용자 경험이 뛰어난 인터랙티브 UI를 제공합니다. 최신 React 18 기능을 활용하여 성능 최적화와 코드 단순화를 모두 달성했습니다.",
+    "feature3_title": "Tailwind CSS",
+    "feature3_description": "Tailwind CSS를 활용하여 빠르고 일관된 스타일링을 실현했습니다. 반응형 디자인은 물론, 유틸리티 퍼스트 접근법으로 코드 유지보수성도 높였습니다.",
+    "feature4_title": "TypeScript",
+    "feature4_description": "TypeScript를 도입하여 코드 오류를 사전에 방지하고 개발 생산성을 대폭 향상시켰습니다. 안정성과 협업 효율성을 모두 갖춘 코드베이스를 제공합니다.",
+    "feature5_title": "Supabase",
+    "feature5_description": "Supabase를 통해 오픈소스 데이터베이스 및 인증 시스템을 간편하게 통합했습니다. 확장성과 실시간 기능을 갖춘 백엔드 환경을 제공합니다.",
+    "feature6_title": "Radix UI",
+    "feature6_description": "Radix UI를 사용하여 접근성(A11y) 표준을 준수하는 컴포넌트를 제공합니다. 모든 사용자가 편리하게 이용할 수 있도록 세심하게 설계되었습니다."
+  },
+  "FirstHero": {
+    "title": "몇 분 만에 Next.js 프로젝트를 시작하세요",
+    "description": "NextSampler는 TypeScript, TailwindCSS, Radix UI로 제작된 실무 수준의 Next.js 15 템플릿을 제공합니다. 더 빠르게 구축하고, 더 효율적으로 배포하며, 가장 중요한 당신의 아이디어에 집중하세요.",
+    "get_start": "시작하기!",
+    "reviewer_name": "에밀리 존슨",
+    "reviewer_position": "(크리에이티브 솔루션즈 프로젝트 매니저)",
+    "reviewer_opinion": "nextjs boilerplate는 혁신적입니다! 우리의 데이터 프로세스를 신속하게 간소화했습니다!"
+  },
+  "SecondHero": {
+    "title": "개발의 첫걸음, 더 쉽게",
+    "description": "NextSampler는 복잡한 초기 설정 없이 바로 사용할 수 있는 Next.js 15 예제 템플릿을 제공합니다. 아이디어에만 집중하세요 — 개발은 저희가 준비했습니다.",
+    "get_start": "시작하기!",
+    "reviewer_name": "마이클 브라운",
+    "reviewer_position": "(기술 솔루션 운영 이사)",
+    "reviewer_opinion": "nextjs boilerplate 덕분에 우리의 개발 과정이 혁신적으로 바뀌었습니다 - 매끄럽고, 안전하며, 간단합니다!"
+  },
+  "ExampleShowcase": {
+    "page_title": "예제 템플릿",
+    "page_description": "NextSampler는 다양한 예제 템플릿을 제공합니다. 각 템플릿은 실무에서 바로 사용할 수 있도록 설계되었습니다. 아래의 예제를 확인해보세요.",
+    "showcase1_title": "어드민 대시보드",
+    "showcase1_description": "다양한 통계가 포함된 실무용 대시보드 예제입니다. Next.js와 TailwindCSS 기반으로 확장성과 유지보수성이 뛰어납니다.",
+    "showcase2_title": "노트 앱",
+    "showcase2_description": "간단한 텍스트 편집 및 저장 기능이 포함된 노트 예제입니다.",
+    "showcase3_title": "컴포넌트 컬렉션",
+    "showcase3_description": "자주 사용하는 UI 컴포넌트를 모아둔 컬렉션입니다. 버튼, 입력창, 모달, 탭 등 다양한 요소를 Radix UI 기반으로 구성했습니다."
+  },
+  "Process": {
+    "title": "Next.js Boilerplate 완벽 가이드",
+    "description": "이 가이드는 Next.js boilerplate의 모든 기능을 소개하고, 설치 방법과 사용법을 단계별로 안내합니다. 각 기능의 이점과 고유 판매 포인트를 확인하고, 쉽게 설치하여 일반적인 사용 사례를 통해 효과적으로 활용해보세요.",
+    "step1_title": "기능 소개",
+    "step1_description": "Next.js boilerplate의 모든 기능을 알아보고, 각 기능의 이점과 고유 판매 포인트를 확인하세요.",
+    "step2_title": "설치 가이드",
+    "step2_description": "Boilerplate를 설치하는 방법에 대한 단계별 가이드를 이용하여 쉽게 설치해보세요.",
+    "step3_title": "사용 방법",
+    "step3_description": "설치 후 Next.js boilerplate 사용법과 일반적인 사용 사례에 대한 설명을 제공합니다."
+  },
+  "Pricing": {
+    "section_title": "적절한 가격으로 시작하는 SaaS 템플릿",
+    "section_description": "적절한 가격으로 시작하는 SaaS 템플릿을 만나보세요! 효율적이고 간편한 솔루션으로 비즈니스를 더욱 성장시키는 기회를 제공합니다."
+  },
+  "PricingPlan": {
+    "free_plan_name": "무료",
+    "free_plan_button": "계정 생성",
+    "premium_plan_name": "프리미엄",
+    "premium_plan_button": "시작 하기",
+    "enterprise_plan_name": "엔터프라이즈",
+    "enterprise_plan_button": "영업팀 문의",
+    "free_plan_description": "개인용",
+    "premium_plan_description": "소규모 팀의 경우",
+    "enterprise_plan_description": "업계 리더를 위한",
+    "feature_common_team_member": "{number} 팀원",
+    "feature_common_website": "{number} 웹사이트",
+    "feature_common_storage": "{number} GB 저장소",
+    "feature_common_transfer": "{number} TB 전송",
+    "feature_indiviual_email_support": "이메일 기술지원",
+    "feature_indiviual_statics_report": "통계 및 보고서",
+    "feature_indiviual_online_support": "온라인 기술지원",
+    "feature_indiviual_ai_assist": "AI 도우미",
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "next_renew_date": "Your subscription renews on {date}"
+  },
+  "PricingOnetimePayment": {
+    "title": "요금 안내",
+    "description": "한 번 결제로 모든 NextSampler 예제를 추가 비용 없이 이용할 수 있습니다.",
+    "payment_desc": "VAT 포함 / 단 한 번의 결제",
+    "feature1": "모든 예제 소스 코드 포함",
+    "feature2": "추가 비용 없이 평생 이용 가능",
+    "feature3": "상업적 사용 허용",
+    "feature4": "개인 및 팀 프로젝트에 사용 가능",
+    "buy_now": "지금 구매하기"
+  },
+  "FAQ": {
+    "section_title": "자주 묻는 질문",
+    "section_description": "Next.js Boilerplate에 대한 일반적인 질문에 대한 답변을 찾아보고 빠르게 시작하는 방법을 알아보세요.",
+    "question1": "Next.js Boilerplate는 어떤 기능을 제공하나요?",
+    "answer1": "Next.js Boilerplate는 기본적인 Next.js 설정 외에도 라우팅, 상태 관리, API 통신, 스타일링, 테스트 설정 등 다양한 기능을 제공합니다. 이를 통해 개발자는 빠르게 프로젝트를 시작하고, 필요한 기능을 쉽게 추가할 수 있습니다.",
+    "question2": "이 프로젝트를 어떻게 설치하나요?",
+    "answer2": "Next.js Boilerplate는 GitHub에서 클론하여 사용할 수 있습니다. 설치 가이드를 따라 필요한 의존성을 설치하고, 환경 변수를 설정한 후, npm run dev 명령어로 개발 서버를 시작하면 됩니다.",
+    "question3": "Next.js Boilerplate의 라이센스는 무엇인가요?",
+    "answer3": "Next.js Boilerplate는 MIT 라이센스를 따릅니다. 이는 누구나 자유롭게 사용, 수정, 배포할 수 있도록 허용합니다. 다만, 원본 저작권 및 라이센스 고지를 유지해야 합니다.",
+    "question4": "Next.js Boilerplate에서 사용자 인증은 어떻게 구현하나요?",
+    "answer4": "Next.js Boilerplate는 사용자 인증을 위한 기본적인 구조를 제공합니다. JWT(JSON Web Token) 또는 OAuth와 같은 인증 방식을 쉽게 통합할 수 있도록 설정되어 있으며, 관련 문서에서 구현 방법을 확인할 수 있습니다.",
+    "question5": "Next.js Boilerplate의 커스터마이징은 얼마나 쉬운가요?",
+    "answer5": "Next.js Boilerplate는 모듈화된 구조로 설계되어 있어, 필요에 따라 쉽게 커스터마이징할 수 있습니다. 컴포넌트, 페이지, API 라우트 등을 자유롭게 수정하고 추가할 수 있으며, 문서에서 커스터마이징 방법에 대한 가이드를 제공합니다."
+  },
+  "CTA": {
+    "title": "전체 버전으로 업그레이드",
+    "description": "인증, Supabase 통합 등과 같은 고급 기능을 찾고 계신가요? 전체 버전을 확인해보세요:",
+    "button_text": "🚀 전체 버전 보기"
+  },
+  "Footer": {
+    "features": "Features",
+    "showcase": "Showcase",
+    "pricing": "Pricing",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "inspired_by": "Inspired by <author></author>."
+  },
+  "NoteApp": {
+    "title": "노트 앱",
+    "add_note": "노트 추가",
+    "new_note": "새로운 노트",
+    "edit_note": "노트 편집",
+    "delete_note": "노트 삭제",
+    "save_note_confirm": "저장 하기",
+    "delete_note_confirm": "삭제 하기",
+    "delete_note_message": "노트를 정말로 삭제하시겠습니까?",
+    "note_title": "노트 제목",
+    "note_content": "노트 내용"
+  },
+  "CalendarApp": {
+    "page_title": "달력 앱",
+    "add_event": "이벤트 추가",
+    "new_event": "새로운 이벤트",
+    "edit_event": "이벤트 편집",
+    "delete_event": "이벤트 삭제",
+    "save": "저장",
+    "event_name": "이벤트 이름",
+    "event_desc": "이벤트 설명",
+    "event_start": "시작 시간",
+    "event_end": "종료 시간",
+    "event_color": "이벤트 색상"
+  },
+  "InvoiceApp": {
+    "page_title": "인보이스 앱",
+    "add_invoice": "인보이스 추가",
+    "new_invoice": "새로운 인보이스",
+    "edit_invoice": "인보이스 편집",
+    "delete_invoice": "인보이스 삭제",
+    "delete_selected": "선택 삭제",
+    "save": "저장",
+    "invoice_list": "인보이스 목록",
+    "invoice_name": "인보이스 이름",
+    "invoice_desc": "인보이스 설명",
+    "invoice_date": "인보이스 날짜",
+    "invoice_due_date": "납기일",
+    "invoice_status": "인보이스 상태",
+    "invoice_total": "총액",
+    "status_paid": "지불 완료",
+    "status_pending": "보류 중",
+    "status_draft": "임시"
+  },
+  "EcommerceApp": {
+    "page_title": "전자상거래 앱",
+    "page_inventory_title": "전자상거래 - 재고 관리",
+    "page_detail_title": "전자상거래 - 상품 상세 페이지"
+  }
+}
